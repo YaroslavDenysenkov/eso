@@ -19,7 +19,7 @@ await tp.file.create_new(
 
 // create Learning note
 await tp.file.create_new(
-  tp.file.find_tfile("Daily Lern Template"),
+  tp.file.find_tfile("Daily Learn Template"),
   `${date} Learning`,
   false,
   "Periodic"

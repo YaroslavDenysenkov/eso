@@ -1,8 +1,5 @@
 ---
-dl_deu_study:
-dl_deu_speak:
-dl_deu_vhs_sections_t: 26
-dl_deu_mem_points_t: 787
+dl_deu_mem_points_t:
 dl_deu_mem_words_t:
 ---
 
@@ -10,9 +7,9 @@ dl_deu_mem_words_t:
 
 ## Deutsch
 
-* **Study Deutsch**: `INPUT[toggle:dl_deu_study]`
-* **Speak Deutsch**: `INPUT[toggle:dl_deu_speak]`
-* **VHS Sections**: `INPUT[number:dl_deu_vhs_sections_t]`
+* **Study Deutsch**: `INPUT[toggle:deu_study]`
+* **Speak Deutsch**: `INPUT[toggle:deu_speak]`
+* **VHS Sections**: `INPUT[number:deu_vhs_sections_t]`
 * **Memrise Points**:  `INPUT[number:dl_deu_mem_points_t]`
 * **Memrise Words**:  `INPUT[number:dl_deu_mem_words_t]`
 

@@ -31,6 +31,13 @@
     "fit_pt_pushup": "number",
     "fit_pt_captain": "number",
     "fit_pt_dip_tricep": "number",
-    "fit_pt_dip_chest": "number"
+    "fit_pt_dip_chest": "number",
+    "dl_mem_points_t": "number",
+    "dl_mem_words_t": "number",
+    "dl_deu_mem_words_t": "number",
+    "dl_deu_mem_points_t": "number",
+    "dl_deu_vhs_sections_t": "number",
+    "dl_deu_speak": "checkbox",
+    "dl_deu_study": "checkbox"
   }
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Journal/10 Daily/25_12/25-12-29 Daily Note Mo 01.md",
+                "file": "99 Back Office/Templates/Daily Notes Template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25-12-29 Daily Note Mo 01"
+              "title": "Daily Notes Template"
             }
           }
         ]
@@ -218,14 +218,19 @@
   },
   "active": "2c132339d5aa46ce",
   "lastOpenFiles": [
-    "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 Daily Note.md",
-    "10 Journal/10 Daily/25_12/25-12-29 Daily Note Mo 01.md",
-    "10 Journal/10 Daily/25/12/25-12-29 Mo 01 Daily Note.md",
+    "10 Journal/10 Daily/25_12/25-12-29 Daily Notes Mo 01.md",
+    "99 Back Office/Templates/Daily Notes Template.md",
     "10 Journal/10 Daily/25_12",
+    "99 Back Office/Templates/Daily Fit Template.md",
+    "99 Back Office/Templates/Daily Me Template.md",
+    "10 Journal/10 Daily/25_12/25-12-29 Notes Mo 01.md",
+    "99 Back Office/Templates/Daily Learn Template.md",
+    "10 Journal/10 Daily/25_12/25-12-29 Daily Note Mo 01.md",
+    "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 Daily Note.md",
+    "10 Journal/10 Daily/25/12/25-12-29 Mo 01 Daily Note.md",
     "2025-12-29 Fitness.md",
     "10 Journal/10 Daily/25/12",
     "10 Journal/10 Daily/25",
-    "99 Back Office/Templates/Daily Note Template.md",
     "10 Journal/10 Daily/2025/Dec",
     "10 Journal/10 Daily/2025",
     "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 Daily-Note.md",
@@ -248,11 +253,6 @@
     "_/Untitled 5.md",
     "_/Untitled 4.md",
     "_/Untitled 3.md",
-    "_/Untitled 2.md",
-    "_/Untitled 1.md",
-    "_/Untitled.md",
-    "_/Obsidian Community Plugins.md",
-    "_/Obsidian Best Practices.md",
-    "_/German A1 Preparation.md"
+    "_/Untitled 2.md"
   ]
 }

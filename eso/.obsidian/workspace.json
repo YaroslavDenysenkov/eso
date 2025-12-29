@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Journal/10 Daily/25_12/25-12-29 Daily Notes Mo 01.md",
+                "file": "99 Back Office/Templates/Daily Notes Template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25-12-29 Daily Notes Mo 01"
+              "title": "Daily Notes Template"
             }
           }
         ]
@@ -216,13 +216,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c132339d5aa46ce",
+  "active": "117a3d40e5245550",
   "lastOpenFiles": [
-    "99 Back Office/Templates/Daily Notes Template.md",
     "10 Journal/10 Daily/25_12/25-12-29 Daily Notes Mo 01.md",
+    "99 Back Office/Templates/Daily Notes Template.md",
     "99 Back Office/Templates/Daily Me Template.md",
-    "Periodic",
+    "Untitled",
     "99 Back Office/Templates/Daily Fit Template.md",
+    "Periodic",
     "2025-12-29 Fitness.md",
     "10 Journal/10 Daily/25_12",
     "99 Back Office/Templates/Daily Learn Template.md",
@@ -245,7 +246,6 @@
     "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 29ami12",
     "10 Journal/2025-12-29 W01 Mo.md",
     "10 Journal/10 Daily/2025/Untitled.md",
-    "Periodic",
     "10 Journal/10 Daily.md",
     "Obsidian Community Plugins.md",
     "_/Untitled Kanban.md",

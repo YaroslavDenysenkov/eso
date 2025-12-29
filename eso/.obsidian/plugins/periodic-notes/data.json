@@ -5,7 +5,7 @@
   "daily": {
     "format": "YY_MM/YY-MM-DD [Daily Notes]",
     "template": "99 Back Office/Templates/Daily Notes Template.md",
-    "folder": "10 Journal/10 Daily",
+    "folder": "10 Journal/Daily",
     "enabled": true
   },
   "weekly": {

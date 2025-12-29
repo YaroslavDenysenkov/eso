@@ -1,8 +1,7 @@
- 2025-12-29 Periodic Note
 
 ## Links
-- [[2025-12-29 Fitness]]
-- [[2025-12-29 Learning]]
-- [[2025-12-29 State]]
+- [[2025-12-29 Daily Fit]]
+- [[2025-12-29 Daily Learn]]
+- [[2025-12-29 Daily Me]]
 
 

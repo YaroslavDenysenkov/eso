@@ -1,6 +1,5 @@
 [
   "auto-card-link",
-  "calendar",
   "obsidian-git",
   "obsidian-meta-bind-plugin",
   "periodic-notes",
@@ -9,5 +8,6 @@
   "editing-toolbar",
   "fold-properties-by-default",
   "table-editor-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "calendar"
 ]

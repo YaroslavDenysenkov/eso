@@ -181,16 +181,6 @@
             }
           },
           {
-            "id": "32f68b9c7758f5ff",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "b567b5571161f853",
             "type": "leaf",
             "state": {
@@ -208,6 +198,16 @@
               "state": {},
               "icon": "spreadsheet",
               "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "4d3f7ac7d3caaabf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -233,13 +233,18 @@
   },
   "active": "3de6b2511569d220",
   "lastOpenFiles": [
+    "2025-12-29 Daily Fit.md",
+    "10 Journal/10 Daily/25_12/25-12-29 Daily Notes Mo 01.md",
+    "10 Journal/10 Daily/25_12/25-12-29 Daily Me.md",
+    "10 Journal/10 Daily/25_12/25-12-29 Daily Learn.md",
+    "10 Journal/10 Daily/25_12/25-12-29 Daily Fit.md",
+    "99 Back Office/Templates/Daily Notes Template.md",
+    "10 Journal/10 Daily/25_12",
+    "99 Back Office/Templates/Daily Notes Template 1.md",
     "Periodic/2025-12-29 State.md",
     "Periodic/2025-12-29 Learning.md",
     "Periodic/2025-12-29 Fitness.md",
-    "99 Back Office/Templates/Daily Notes Template 1.md",
-    "10 Journal/10 Daily/25_12/25-12-29 Daily Notes Mo 01.md",
     "99 Back Office/Templates/Daily Me Template.md",
-    "99 Back Office/Templates/Daily Notes Template.md",
     "99 Back Office/Templates/Daily Learn Template.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -247,7 +252,6 @@
     "99 Back Office/Templates/Daily Fit Template.md",
     "Periodic",
     "2025-12-29 Fitness.md",
-    "10 Journal/10 Daily/25_12",
     "10 Journal/10 Daily",
     "10 Journal/10 Daily/25_12/25-12-29 Notes Mo 01.md",
     "10 Journal/10 Daily/25_12/25-12-29 Daily Note Mo 01.md",
@@ -264,10 +268,6 @@
     "10 Journal/2025-12-29 W01 Mo.md",
     "10 Journal/10 Daily/2025/Untitled.md",
     "10 Journal/10 Daily.md",
-    "Obsidian Community Plugins.md",
-    "_/Untitled Kanban.md",
-    "_/Untitled 7.md",
-    "_/Untitled 6.md",
-    "_/Untitled 5.md"
+    "Obsidian Community Plugins.md"
   ]
 }

@@ -6,6 +6,7 @@ deu_mem_points:
 deu_mem_words:
 ---
 
+---
 ## Deutsch
 
 * **Study Deutsch**: `INPUT[toggle:deu_study]`
@@ -18,6 +19,14 @@ deu_mem_words:
 - [ ] 🎧 Listening
 - [ ] 🗣️ Using
 - [ ] 🔄 Review
+
+---
+
+|     |     |
+| --- | --- |
+|     |     |
+
+
 
 ---
 

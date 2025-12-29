@@ -11,10 +11,14 @@
             "id": "2c132339d5aa46ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10 Journal/10 Daily.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10 Daily"
             }
           }
         ]
@@ -212,8 +216,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c132339d5aa46ce",
+  "active": "117a3d40e5245550",
   "lastOpenFiles": [
+    "99 Back Office/Templates/Daily Note Template.md",
+    "10 Journal/10 Daily.md",
+    "10 Journal",
+    "99 Back Office/Templates",
+    "99 Back Office",
     "Obsidian Community Plugins.md",
     "_/Untitled Kanban.md",
     "_/Untitled 7.md",
@@ -244,11 +253,6 @@
     "_/40 Knowledge Base",
     "_/30 Areas",
     "_/20 Active Projects",
-    "_/10 Journal/Workouts/Untitled.md",
-    "_/10 Journal/Workouts/Untitled 1.md",
-    "_/10 Journal/Workouts",
-    "_/10 Journal/50 Yearly",
-    "_/10 Journal/40 Quarterly",
-    "_/10 Journal/30 Monthly"
+    "_/10 Journal/Workouts"
   ]
 }

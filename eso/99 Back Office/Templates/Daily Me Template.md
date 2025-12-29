@@ -1,10 +1,2 @@
-# State – <% tp.date.now("YYYY-MM-DD") %>
 
-## Mood
-- 
-
-## Energy
-- 
-
-## Notes
--
+[[<% tp.date.now("YYYY-MM-DD") %> Daily Notes]]

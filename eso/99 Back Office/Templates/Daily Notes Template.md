@@ -1,6 +1,5 @@
 
-## Links
-- [[<% tp.date.now("YYYY-MM-DD") %> Daily Fit]]
+ - [[<% tp.date.now("YYYY-MM-DD") %> Daily Fit]]
 - [[<% tp.date.now("YYYY-MM-DD") %> Daily Learn]]
 - [[<% tp.date.now("YYYY-MM-DD") %> Daily Me]]
 

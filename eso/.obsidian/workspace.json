@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Journal/10 Daily.md",
+                "file": "10 Journal/2025-12-29 W01 Mo.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "10 Daily"
+              "title": "2025-12-29 W01 Mo"
             }
           }
         ]
@@ -218,7 +218,17 @@
   },
   "active": "117a3d40e5245550",
   "lastOpenFiles": [
+    "10 Journal/10 Daily/2025/Dec",
+    "10 Journal/10 Daily/2025/Untitled.md",
+    "10 Journal/2025-12-29 W01 Mo.md",
+    "10 Journal/10 Daily/2025",
+    "2025-12-29 Fitness.md",
+    "Periodic/2025-12-29 State.md",
+    "Periodic/2025-12-29 Learning.md",
+    "Periodic/2025-12-29 Fitness.md",
+    "Periodic",
     "99 Back Office/Templates/Daily Note Template.md",
+    "10 Journal/10 Daily",
     "10 Journal/10 Daily.md",
     "10 Journal",
     "99 Back Office/Templates",
@@ -240,19 +250,9 @@
     "_/2025-12-27.md",
     "_/2025-12-26.md",
     "_/2025-12.md",
-    "_/30 words like Nacht.md",
-    "_/Templates/Home Fit Template.md",
-    "_/Templates/50 Yearly Note Template.md",
-    "_/Templates/40 Quarterly Note Template.md",
-    "_/Templates/30 Monthly Note Template.md",
-    "_/Templates/20 Weekly Note Template.md",
-    "_/Templates/10 Daily Note Template.md",
     "_/Templates",
     "_/99 Attachments",
     "_/90 Archives",
-    "_/40 Knowledge Base",
-    "_/30 Areas",
-    "_/20 Active Projects",
-    "_/10 Journal/Workouts"
+    "_/40 Knowledge Base"
   ]
 }

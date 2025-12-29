@@ -5,5 +5,7 @@
   "obsidian-meta-bind-plugin",
   "periodic-notes",
   "obsidian-tasks-plugin",
-  "obsidian-tracker"
+  "obsidian-tracker",
+  "editing-toolbar",
+  "fold-properties-by-default"
 ]

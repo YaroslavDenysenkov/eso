@@ -3,7 +3,7 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "YYYY-MM-DD [W]ww dd",
     "template": "Templates/10 Daily Note Template.md",
     "folder": "10 Journal/10 Daily",
     "enabled": true

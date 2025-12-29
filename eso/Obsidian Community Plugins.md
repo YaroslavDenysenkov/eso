@@ -10,4 +10,5 @@
 - Meta Bind
 - Periodic Notes
 - Tasks
+- Templater
 - Tracker

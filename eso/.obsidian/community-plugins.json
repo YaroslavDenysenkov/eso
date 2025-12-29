@@ -8,5 +8,6 @@
   "obsidian-tracker",
   "editing-toolbar",
   "fold-properties-by-default",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "templater-obsidian"
 ]

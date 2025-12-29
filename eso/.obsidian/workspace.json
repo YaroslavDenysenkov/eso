@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 29ami12/29/20252025 ADot1.md",
+                "file": "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 Daily Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "20252025 ADot1"
+              "title": "2025-12-29 Mo 01 Daily Note"
             }
           }
         ]
@@ -218,6 +218,11 @@
   },
   "active": "2c132339d5aa46ce",
   "lastOpenFiles": [
+    "99 Back Office/Templates/Daily Note Template.md",
+    "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 Daily Note.md",
+    "10 Journal/10 Daily/2025/Dec",
+    "10 Journal/10 Daily/2025",
+    "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 Daily-Note.md",
     "2025-12-29 Fitness.md",
     "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 29ami12/29/20252025 ADot1.md",
     "Periodic/2025-12-29 State.md",
@@ -225,12 +230,9 @@
     "Periodic/2025-12-29 Fitness.md",
     "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 29ami12/29",
     "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 29ami12",
-    "10 Journal/10 Daily/2025/Dec",
-    "10 Journal/10 Daily/2025",
     "10 Journal/2025-12-29 W01 Mo.md",
     "10 Journal/10 Daily/2025/Untitled.md",
     "Periodic",
-    "99 Back Office/Templates/Daily Note Template.md",
     "10 Journal/10 Daily",
     "10 Journal/10 Daily.md",
     "10 Journal",
@@ -251,8 +253,6 @@
     "_/German A1 Preparation.md",
     "_/2025-W52.md",
     "_/2025-12-27.md",
-    "_/2025-12-26.md",
-    "_/2025-12.md",
     "_/Templates"
   ]
 }

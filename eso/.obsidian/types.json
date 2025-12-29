@@ -38,6 +38,10 @@
     "dl_deu_mem_points_t": "number",
     "dl_deu_vhs_sections_t": "number",
     "dl_deu_speak": "checkbox",
-    "dl_deu_study": "checkbox"
+    "dl_deu_study": "checkbox",
+    "df_hm_pt_dip_chest": "number",
+    "df_hm_pt_dip_tricep": "number",
+    "df_hm_pt_captain": "number",
+    "df_hm_pt_pushup": "number"
   }
 }

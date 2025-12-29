@@ -1,12 +1,12 @@
 ---
 dl_deu_study:
 dl_deu_speak:
-dl_deu_vhs_sections_t: 26
-dl_deu_mem_points_t: 787
-dl_deu_mem_words_t: 108
+dl_deu_vhs_sections_t:
+dl_deu_mem_points_t:
+dl_deu_mem_words_t:
 ---
 
-[[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Notes|Daily Notes]]
+[[10 Journal/Daily/25_12/29/25-12-29 Daily Notes|Daily Notes]]
 
 ## Deutsch
 

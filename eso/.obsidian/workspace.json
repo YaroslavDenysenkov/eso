@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "10 Daily Note Template"
             }
-          },
-          {
-            "id": "f60fe8c3b57efc7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/10 Daily Note Template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "10 Daily Note Template"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,12 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f60fe8c3b57efc7b",
+  "active": "2c132339d5aa46ce",
   "lastOpenFiles": [
+    "Templates/10 Daily Note Template.md",
     "10 Journal/Workouts/Untitled.md",
     "10 Journal/Workouts/Untitled 1.md",
     "Templates/Home Fit Template.md",
-    "Templates/10 Daily Note Template.md",
     "00 Inbox/Untitled.md",
     "10 Journal/Workouts",
     "Templates/50 Yearly Note Template.md",

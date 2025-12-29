@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 Back Office/Templates/Daily Notes Template.md",
+                "file": "10 Journal/Daily/25_12/25-12-29 Daily Notes.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Notes Template"
+              "title": "25-12-29 Daily Notes"
             }
           }
         ]
@@ -216,17 +216,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "117a3d40e5245550",
+  "active": "2c132339d5aa46ce",
   "lastOpenFiles": [
+    "10 Journal/Daily/25_12/25-12-29 Daily Me.md",
+    "10 Journal/Daily/25_12/25-12-29 Daily Learn.md",
+    "10 Journal/Daily/25_12/25-12-29 Daily Fit.md",
+    "10 Journal/Daily/25_12/25-12-29 Daily Notes.md",
+    "99 Back Office/Templates/Daily Me Template.md",
+    "10 Journal/Daily/25_12",
+    "99 Back Office/Templates/Daily Learn Template.md",
+    "99 Back Office/Templates/Daily Fit Template.md",
+    "99 Back Office/Templates/Daily Notes Template.md",
+    "2025-12-29 Daily Notes.md",
     "10 Journal/10 Daily/25_12/25-12-29 Daily Notes.md",
     "10 Journal/10 Daily/25_12/25-12-29 Daily Fit.md",
     "10 Journal/10 Daily/25_12/25-12-29 Daily Me.md",
     "10 Journal/10 Daily/25_12/25-12-29 Daily Learn.md",
-    "99 Back Office/Templates/Daily Notes Template.md",
     "10 Journal/10 Daily/25_12",
     "25_12/25-12-29 [Daily Fit].md",
     "25_12",
-    "99 Back Office/Templates/Daily Me Template.md",
     "<% tp.file.path(true).split(\"/\").slice(0,-1).join(\"/\") %>/<% tp.date.now(\"YY-MM-DD\") %> [Daily Learn.md",
     "<% tp.file.path(true).split(\"/\").slice(0,-1).join(\"/\") %>",
     "<% tp.file.path(true).split(\"/\").slice(0,-1).join(\"",
@@ -235,23 +243,15 @@
     "10 Journal/10 Daily/25_12/25-12-29 [Daily Learn].md",
     "10 Journal/10 Daily/25_12/25-12-29 [Daily Fit].md",
     "10 Journal/10 Daily/25_12/25-12-29 [Daily Fit.md",
-    "2025-12-29 Daily Notes.md",
     "25_12/25-12-29 [Daily Fit.md",
-    "99 Back Office/Templates/Daily Fit Template.md",
     "25_12/2025-12-29 Daily Fit.md",
     "2025-12-29 Daily Fit.md",
-    "99 Back Office/Templates/Daily Learn Template.md",
     "10 Journal/10 Daily/25_12/25-12-29 Daily Notes Mo 01.md",
     "Untitled 1.md",
     "Untitled.md",
-    "99 Back Office/Templates/Daily Notes Template 1.md",
-    "Periodic/2025-12-29 State.md",
-    "Periodic/2025-12-29 Learning.md",
-    "Periodic/2025-12-29 Fitness.md",
     "Untitled",
     "Periodic",
     "10 Journal/Daily",
-    "10 Journal/10 Daily/25/12",
-    "10 Journal/10 Daily/25"
+    "10 Journal/10 Daily/25/12"
   ]
 }

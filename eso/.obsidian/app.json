@@ -6,5 +6,5 @@
   "newLinkFormat": "shortest",
   "promptDelete": false,
   "trashOption": "local",
-  "showLineNumber": true
+  "showLineNumber": false
 }

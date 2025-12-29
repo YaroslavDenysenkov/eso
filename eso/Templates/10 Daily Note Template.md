@@ -9,7 +9,6 @@ vhs_sections:
 deu_speak:
 ---
 
-# 📅 Daily Log: {{date:YYYY-MM-DD}}
 
 ## 📊 Tracker Input
 

@@ -23,6 +23,9 @@
     "TQ_show_tags": "checkbox",
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
-    "TQ_show_urgency": "checkbox"
+    "TQ_show_urgency": "checkbox",
+    "deu_mem_points": "number",
+    "deu_mem_words": "number",
+    "deu_vhs_sections": "number"
   }
 }

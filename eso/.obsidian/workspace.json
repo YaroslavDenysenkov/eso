@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/2025-12-29.md",
+                "file": "Templates/10 Daily Note Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-12-29"
+              "title": "10 Daily Note Template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/2025-12-29.md",
+                "file": "Templates/10 Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-29"
+              "title": "Backlinks for 10 Daily Note Template"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/2025-12-29.md",
+                "file": "Templates/10 Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-12-29"
+              "title": "Outgoing links from 10 Daily Note Template"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/2025-12-29.md",
+                "file": "Templates/10 Daily Note Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-29"
+              "title": "Outline of 10 Daily Note Template"
             }
           },
           {
@@ -201,14 +201,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "2c132339d5aa46ce",
   "lastOpenFiles": [
-    "Templates/10 Daily Note Template.md",
-    "00 Inbox/2025-12-29.md",
     "Obsidian Community Plugins.md",
+    "Templates/10 Daily Note Template.md",
+    "10 Journal/10 Daily/2025-12-29.md",
+    "00 Inbox/2025-12-29.md",
     "Templates/50 Yearly Note Template.md",
     "Templates/40 Quarterly Note Template.md",
     "Templates/30 Monthly Note Template.md",

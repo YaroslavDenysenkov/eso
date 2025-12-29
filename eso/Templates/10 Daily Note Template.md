@@ -3,14 +3,15 @@ date:
   "{ date:YYYY-MM-DD }":
 tags:
   - daily
-memrise_points:
-memrise_words:
-vhs_sections:
+deu_mem_points:
+deu_mem_words:
+deu_vhs_sections:
 deu_speak:
 ---
 
 
-## 📊 Tracker Input
+
+
 
 * **Memrise Points**:  `INPUT[number:memrise_points]`
 * **Memrise Words**:  `INPUT[number:memrise_words]`

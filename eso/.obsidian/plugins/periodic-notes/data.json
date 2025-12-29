@@ -3,9 +3,9 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "YYYY-MM-DD [W]ww dd",
+    "format": "YYYY/MMM/YYYY-MM-DD dd ww Daily Note",
     "template": "99 Back Office/Templates/Daily Note Template.md",
-    "folder": "10 Journal/10 Daily/{{YYYY}}/{{MMM}}",
+    "folder": "10 Journal/10 Daily",
     "enabled": true
   },
   "weekly": {

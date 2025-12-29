@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Workouts",
+      "template": "Templates/Home Fit Template.md"
     }
   ],
   "enable_file_templates": false,
@@ -26,7 +26,7 @@
       "template": ""
     }
   ],
-  "syntax_highlighting": true,
+  "syntax_highlighting": false,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""

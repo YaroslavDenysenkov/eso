@@ -1,15 +1,13 @@
-<%* const fileName = "Home Fit " + tp.date.now("YYYY-MM-DD [W]ww ddd"); await tp.file.rename(fileName); %>
-
 ---
-date: <% tp.file.creation_date("YYYY-MM-DD") %>
-tags: [workout]
+date: 2025-12-29
+tags:
+  - workout
 fit_pt_pushup:
 fit_pt_captain:
 fit_pt_dip_tricep:
 fit_pt_dip_chest:
 ---
-
-# Workout: <% tp.date.now("YYYY-MM-DD") %>
+# Workout: 2025-12-29
 
 
 | Power Tower |                                   |

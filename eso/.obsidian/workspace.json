@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Home Fit Template.md",
+                "file": "Templates/10 Daily Note Template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home Fit Template"
+              "title": "10 Daily Note Template"
             }
           }
         ],
@@ -233,17 +233,21 @@
   },
   "active": "f60fe8c3b57efc7b",
   "lastOpenFiles": [
-    "Obsidian Community Plugins.md",
+    "10 Journal/Workouts/Untitled.md",
+    "10 Journal/Workouts/Untitled 1.md",
     "Templates/Home Fit Template.md",
-    "10 Journal/10 Daily/2025-12-29 W01 Mo.md",
     "Templates/10 Daily Note Template.md",
+    "00 Inbox/Untitled.md",
+    "10 Journal/Workouts",
+    "Templates/50 Yearly Note Template.md",
+    "Obsidian Community Plugins.md",
+    "10 Journal/10 Daily/2025-12-29 W01 Mo.md",
     "Workouts/2025-12-29/Bench press-1.md",
     "Workouts/2025-12-29",
-    "Workouts",
+    "10 Journal/Workouts",
     "10 Journal/10 Daily/2025-12-29.md",
     "Templates/20 Weekly Note Template.md",
     "00 Inbox/2025-12-29.md",
-    "Templates/50 Yearly Note Template.md",
     "Templates/40 Quarterly Note Template.md",
     "Templates/30 Monthly Note Template.md",
     "Welcome.md",
@@ -254,7 +258,6 @@
     "30 Areas",
     "20 Active Projects",
     "10 Journal/50 Yearly",
-    "10 Journal/40 Quarterly",
     "00 Inbox/Jenkins.md",
     "00 Inbox/Best Practices for Obsidian Tags.md"
   ]

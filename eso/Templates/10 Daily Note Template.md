@@ -1,9 +1,9 @@
 ---
 deu_study:
 deu_speak:
-deu_vhs_sections:
-deu_mem_points: 
-deu_mem_words:
+deu_vhs_sections_t:
+deu_mem_points_t:
+deu_mem_words_t:
 ---
 
 ---
@@ -11,9 +11,9 @@ deu_mem_words:
 
 * **Study Deutsch**: `INPUT[toggle:deu_study]`
 * **Speak Deutsch**: `INPUT[toggle:deu_speak]`
-* **VHS Sections**: `INPUT[number:deu_vhs_sections]`
-* **Memrise Points**:  `INPUT[number:deu_mem_points]`
-* **Memrise Words**:  `INPUT[number:deu_mem_words]`
+* **VHS Sections**: `INPUT[number:deu_vhs_sections_t]`
+* **Memrise Points**:  `INPUT[number:deu_mem_points_t]`
+* **Memrise Words**:  `INPUT[number:deu_mem_words_t]`
 ### Memrise 
 - [ ] 📘 Learning
 - [ ] 🎧 Listening

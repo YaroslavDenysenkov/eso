@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 Back Office/Templates/Daily Notes Template.md",
+                "file": "10 Journal/10 Daily/25_12/25-12-29 Daily Notes Mo 01.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Notes Template"
+              "title": "25-12-29 Daily Notes Mo 01"
             }
           }
         ]
@@ -218,17 +218,20 @@
   },
   "active": "2c132339d5aa46ce",
   "lastOpenFiles": [
-    "10 Journal/10 Daily/25_12/25-12-29 Daily Notes Mo 01.md",
     "99 Back Office/Templates/Daily Notes Template.md",
-    "10 Journal/10 Daily/25_12",
-    "99 Back Office/Templates/Daily Fit Template.md",
+    "10 Journal/10 Daily/25_12/25-12-29 Daily Notes Mo 01.md",
     "99 Back Office/Templates/Daily Me Template.md",
-    "10 Journal/10 Daily/25_12/25-12-29 Notes Mo 01.md",
+    "Periodic",
+    "99 Back Office/Templates/Daily Fit Template.md",
+    "2025-12-29 Fitness.md",
+    "10 Journal/10 Daily/25_12",
     "99 Back Office/Templates/Daily Learn Template.md",
+    "10 Journal/10 Daily",
+    "99 Back Office/Templates/Daily Notes Template 1.md",
+    "10 Journal/10 Daily/25_12/25-12-29 Notes Mo 01.md",
     "10 Journal/10 Daily/25_12/25-12-29 Daily Note Mo 01.md",
     "10 Journal/10 Daily/2025/Dec/2025-12-29 Mo 01 Daily Note.md",
     "10 Journal/10 Daily/25/12/25-12-29 Mo 01 Daily Note.md",
-    "2025-12-29 Fitness.md",
     "10 Journal/10 Daily/25/12",
     "10 Journal/10 Daily/25",
     "10 Journal/10 Daily/2025/Dec",
@@ -243,16 +246,12 @@
     "10 Journal/2025-12-29 W01 Mo.md",
     "10 Journal/10 Daily/2025/Untitled.md",
     "Periodic",
-    "10 Journal/10 Daily",
     "10 Journal/10 Daily.md",
-    "10 Journal",
     "Obsidian Community Plugins.md",
     "_/Untitled Kanban.md",
     "_/Untitled 7.md",
     "_/Untitled 6.md",
     "_/Untitled 5.md",
-    "_/Untitled 4.md",
-    "_/Untitled 3.md",
-    "_/Untitled 2.md"
+    "_/Untitled 4.md"
   ]
 }

@@ -11,6 +11,6 @@ await tp.file.create_new(
   tp.file.find_tfile("Daily Fit Template"),
   `${date} Fitness`,
   false,
-  "Periodic"
+  "10 Journal/10 Daily/YY_MM"
 )
 %>

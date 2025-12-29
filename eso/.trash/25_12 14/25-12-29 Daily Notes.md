@@ -1,11 +1,6 @@
 
 ## Links
 
-- [[25_12/25-12-29 [Daily Fit]|Daily Fit]]
-- [[25_12/25-12-29 [Daily Learn]|Daily Learn]]
-- [[25_12/25-12-29 [Daily Me]|Daily Me]]
-
-
 ## Links
 - [[10 Journal/10 Daily/25_12/25-12-29 [Daily Fit]]]
 - [[10 Journal/10 Daily/25_12/25-12-29 [Daily Learn]]]

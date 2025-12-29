@@ -1,5 +1,27 @@
 
- - [[<% tp.date.now("YYYY-MM-DD") %> Daily Fit]]
+## Links
+
+- [[<% tp.file.folder() %>/<% tp.date.now("YY-MM-DD") %> [Daily Fit]|Daily Fit]]
+- [[<% tp.file.folder() %>/<% tp.date.now("YY-MM-DD") %> [Daily Learn]|Daily Learn]]
+- [[<% tp.file.folder() %>/<% tp.date.now("YY-MM-DD") %> [Daily Me]|Daily Me]]
+
+
+## Links
+- [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> [Daily Fit]]]
+- [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> [Daily Learn]]]
+- [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> [Daily Me]]]
+
+
+- [[<% tp.file.folder() %>/<% tp.date.now("YY-MM-DD") %> [Daily Fit]]]
+- [[<% tp.file.folder() %>/<% tp.date.now("YY-MM-DD") %> [Daily Learn]]]
+- [[<% tp.file.folder() %>/<% tp.date.now("YY-MM-DD") %> [Daily Me]]]
+
+
+- [[<% tp.file.folder() %>/<% tp.date.now("YYYY-MM-DD") %> Daily Fit]]
+- [[<% tp.file.folder() %>/<% tp.date.now("YYYY-MM-DD") %> Daily Learn]]
+- [[<% tp.file.folder() %>/<% tp.date.now("YYYY-MM-DD") %> Daily Me]]
+
+- [[<% tp.date.now("YYYY-MM-DD") %> Daily Fit]]
 - [[<% tp.date.now("YYYY-MM-DD") %> Daily Learn]]
 - [[<% tp.date.now("YYYY-MM-DD") %> Daily Me]]
 

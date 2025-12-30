@@ -2,8 +2,8 @@
 dl_deu_study:
 dl_deu_speak:
 dl_deu_vhs_sections_t:
-dl_deu_mem_points_t:
-dl_deu_mem_words_t:
+dl_deu_mem_points_t: 871
+dl_deu_mem_words_t: 119
 ---
 
 [[10 Journal/Daily/25_12/30/25-12-30 Daily Notes|Daily Notes]]
@@ -16,7 +16,7 @@ dl_deu_mem_words_t:
 * **Memrise Points**:  `INPUT[number:dl_deu_mem_points_t]`
 * **Memrise Words**:  `INPUT[number:dl_deu_mem_words_t]`
 ### Memrise 
-- [ ] 📘 Learning
-- [ ] 🎧 Listening
-- [ ] 🗣️ Using
+- [x] 📘 Learning ✅ 2025-12-30
+- [x] 🎧 Listening ✅ 2025-12-30
+- [x] 🗣️ Using ✅ 2025-12-30
 - [ ] 🔄 Review

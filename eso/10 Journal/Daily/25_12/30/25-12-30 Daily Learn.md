@@ -2,7 +2,7 @@
 dl_deu_study:
 dl_deu_speak:
 dl_deu_vhs_sections_t:
-dl_deu_mem_points_t: 871
+dl_deu_mem_points_t: 892
 dl_deu_mem_words_t: 119
 ---
 
@@ -19,4 +19,4 @@ dl_deu_mem_words_t: 119
 - [x] 📘 Learning ✅ 2025-12-30
 - [x] 🎧 Listening ✅ 2025-12-30
 - [x] 🗣️ Using ✅ 2025-12-30
-- [ ] 🔄 Review
+- [x] 🔄 Review ✅ 2025-12-30

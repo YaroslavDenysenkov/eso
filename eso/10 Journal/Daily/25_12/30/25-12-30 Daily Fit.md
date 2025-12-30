@@ -1,11 +1,11 @@
 ---
-df_hm_pt_pushup:
+df_hm_pt_pushup: 30
 df_hm_pt_captain:
 df_hm_pt_dip_tricep:
 df_hm_pt_dip_chest:
 ---
 
-[[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Notes|Daily Notes]]
+[[10 Journal/Daily/25_12/30/25-12-30 Daily Notes|Daily Notes]]
 
 Power Tower
 

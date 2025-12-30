@@ -4,7 +4,7 @@ df_hm_pt_captain: 50
 df_hm_pt_dip_tricep:
 df_hm_pt_dip_chest: 3
 df_hm_squat: 30
-df_hm_angel:
+df_hm_angel: 20
 df_hm_calf_raise:
 ---
 

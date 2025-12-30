@@ -42,6 +42,9 @@
     "df_hm_pt_dip_chest": "number",
     "df_hm_pt_dip_tricep": "number",
     "df_hm_pt_captain": "number",
-    "df_hm_pt_pushup": "number"
+    "df_hm_pt_pushup": "number",
+    "df_hm_squat": "number",
+    "df_hm_angel": "number",
+    "df_hm_calf_raise": "number"
   }
 }

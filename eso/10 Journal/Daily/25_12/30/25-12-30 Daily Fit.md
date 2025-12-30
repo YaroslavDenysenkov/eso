@@ -5,7 +5,7 @@ df_hm_pt_dip_tricep:
 df_hm_pt_dip_chest: 3
 df_hm_squat: 30
 df_hm_angel: 20
-df_hm_calf_raise:
+df_hm_calf_raise: 30
 ---
 
 [[10 Journal/Daily/25_12/30/25-12-30 Daily Notes|Daily Notes]]

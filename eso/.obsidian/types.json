@@ -45,6 +45,7 @@
     "df_hm_pt_pushup": "number",
     "df_hm_squat": "number",
     "df_hm_angel": "number",
-    "df_hm_calf_raise": "number"
+    "df_hm_calf_raise": "number",
+    "dm_pills": "checkbox"
   }
 }

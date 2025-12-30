@@ -1,4 +1,5 @@
 ---
+dm_pills:
 df_hm_pt_pushup:
 df_hm_pt_captain:
 df_hm_pt_dip_tricep:
@@ -9,6 +10,8 @@ df_hm_calf_raise:
 ---
 
 [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Notes|Daily Notes]]
+
+Pills: `INPUT[toggle:dm_pills]`
 
 Power Tower
 

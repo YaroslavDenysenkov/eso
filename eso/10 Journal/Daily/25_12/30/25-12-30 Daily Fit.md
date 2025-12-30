@@ -1,4 +1,5 @@
 ---
+dm_pills: true
 df_hm_pt_pushup: 30
 df_hm_pt_captain: 50
 df_hm_pt_dip_tricep:
@@ -9,6 +10,8 @@ df_hm_calf_raise: 30
 ---
 
 [[10 Journal/Daily/25_12/30/25-12-30 Daily Notes|Daily Notes]]
+
+Pills: `INPUT[toggle:dm_pills]`
 
 Power Tower
 

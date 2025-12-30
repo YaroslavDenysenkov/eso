@@ -1,6 +1,6 @@
 ---
 df_hm_pt_pushup: 30
-df_hm_pt_captain:
+df_hm_pt_captain: 50
 df_hm_pt_dip_tricep:
 df_hm_pt_dip_chest:
 df_hm_squat:

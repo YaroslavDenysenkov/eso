@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/00 Inbox.md",
+                "file": "80 Back Office/Templates/Daily Notes Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "00 Inbox"
+              "title": "Daily Notes Template"
             }
           }
         ]
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -216,23 +216,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c132339d5aa46ce",
+  "active": "b567b5571161f853",
   "lastOpenFiles": [
-    "80 Back Office/Obsidian Community Plugins.md",
+    "10 Journal/Daily/25_12/31/25-12-31 Daily Fit.md",
+    "10 Journal/Daily/25_12/31/25-12-31 Daily Learn.md",
+    "10 Journal/Daily/25_12/31/25-12-31 Daily Me.md",
+    "10 Journal/Daily/25_12/31/25-12-31 Daily Notes.md",
+    "10 Journal/Daily/25_12/30/25-12-30 Daily Learn.md",
+    "10 Journal/Daily/25_12/30/25-12-30 Daily Me.md",
+    "10 Journal/Daily/25_12/30/25-12-30 Daily Fit.md",
+    "80 Back Office/Templates/Daily Notes Template.md",
+    "10 Journal/Daily/25_12/31",
+    "80 Back Office/Templates/Daily Me Template.md",
     "00 Inbox/00 Inbox.md",
+    "80 Back Office/Obsidian Best Practices.md",
+    "80 Back Office/Obsidian Community Plugins.md",
     "80 Back Office/Attachments",
     "Untitled.md",
     "99 Archives",
     "40 Knowledge",
     "30 Areas",
-    "80 Back Office/Obsidian Best Practices.md",
     "20 Projects",
     "00 Inbox/German A1 Preparation.md",
     "80 Back Office/Templates/Daily Fit Template.md",
-    "10 Journal/Daily/25_12/30/25-12-30 Daily Fit.md",
-    "10 Journal/Daily/25_12/30/25-12-30 Daily Me.md",
-    "10 Journal/Daily/25_12/30/25-12-30 Daily Learn.md",
-    "80 Back Office/Templates/Daily Me Template.md",
     "80 Back Office/Templates/Daily Learn Template.md",
     "10 Journal/Daily/25_12/30/25-12-30 Daily Notes.md",
     "10 Journal/Daily/25_12/30",
@@ -247,11 +253,6 @@
     "10 Journal/Daily/25_12/29/25-12-29 Daily Fit.md",
     "10 Journal/Daily/25_12/29/25-12-29 Daily Notes.md",
     "10 Journal/Daily/25_12/29/25-12-29 Daily Me.md",
-    "10 Journal/Daily/25_12/29/25-12-29 Daily Learn.md",
-    "10 Journal/Daily/25_12/29",
-    "80 Back Office/Templates/Daily Notes Template.md",
-    "_/2025-12.md",
-    "_/2025-12-26.md",
-    "10 Journal/Daily/25_12_29"
+    "10 Journal/Daily/25_12/29"
   ]
 }

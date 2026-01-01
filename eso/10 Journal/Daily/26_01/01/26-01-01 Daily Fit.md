@@ -1,12 +1,12 @@
 ---
-dm_pills:
+dm_pills: true
 df_hm_pt_pushup:
 df_hm_pt_captain:
 df_hm_pt_dip_tricep:
 df_hm_pt_dip_chest:
 df_hm_squat:
 df_hm_angel:
-df_hm_calf_raise:
+df_hm_calf_raise: 60
 ---
 
 [[10 Journal/Daily/26_01/01/26-01-01 Daily Notes|Daily Notes]]

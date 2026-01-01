@@ -25,13 +25,14 @@ await createNote("Daily Me Template",    `${date} Daily Me`);
 ```tasks
 not done
 due before {{date:YYYY-MM-DD}}
-not path "80 Back Office/Templates"
+path does not include 80 Back Office/Templates
 ```
 
 ### Due today
 ```tasks
 not done
 due on {{date:YYYY-MM-DD}}
+path does not include 80 Back Office/Templates
 ```
 
 ### Due in the next two weeks
@@ -39,15 +40,18 @@ due on {{date:YYYY-MM-DD}}
 not done
 due after {{date:YYYY-MM-DD}}
 due before {{date+14d:YYYY-MM-DD}}
+path does not include 80 Back Office/Templates
 ```
 
 ### No due date
 ```tasks
 not done
 no due date
+path does not include 80 Back Office/Templates
 ```
 
 ### Done today
 ```tasks
 done on {{date:YYYY-MM-DD}}
+path does not include 80 Back Office/Templates
 ```

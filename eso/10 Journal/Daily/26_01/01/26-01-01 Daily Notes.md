@@ -29,7 +29,7 @@ due before 2026-01-15
 ```tasks
 not done
 no due date
-path does not include "80 Back Office/Templates"
+folder does not include "80 Back Office/Templates"
 ```
 
 ### Done today

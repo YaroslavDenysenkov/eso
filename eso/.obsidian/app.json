@@ -2,7 +2,7 @@
   "tabSize": 2,
   "newFileLocation": "folder",
   "newFileFolderPath": "00 Inbox",
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "90 Attachments",
   "newLinkFormat": "shortest",
   "promptDelete": false,
   "trashOption": "local",

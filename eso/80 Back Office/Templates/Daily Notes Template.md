@@ -25,7 +25,7 @@ await createNote("Daily Me Template",    `${date} Daily Me`);
 ```tasks
 not done
 due before {{date:YYYY-MM-DD}}
-root does not include /80 Back Office/Templates
+not path "80 Back Office/Templates"
 ```
 
 ### Due today

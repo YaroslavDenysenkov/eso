@@ -10,7 +10,6 @@
 ```tasks
 not done
 due before 2026-01-01
-root does not include /80 Back Office/Templates
 ```
 
 ### Due today
@@ -30,6 +29,7 @@ due before 2026-01-15
 ```tasks
 not done
 no due date
+path does not include "80 Back Office/Templates"
 ```
 
 ### Done today

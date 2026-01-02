@@ -7,7 +7,13 @@
 - [ ] need to group task dashboards better
 - [ ] need to add eso to Phone
 
+- [ ] add Obsidian hot keys to plugins list
+
+- [ ] how to add Attachement to sub-folders by extension?
+
+
 - [ ] need to add the list like the shower, water, etc
+
 
 ## Tasks
 ### Overdue

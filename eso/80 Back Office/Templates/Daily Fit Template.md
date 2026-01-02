@@ -1,6 +1,6 @@
 ---
 df_pills:
-df_biceps_10kg:
+df_biceps_10kg: 5
 df_hm_pt_pushup:
 df_hm_pt_captain:
 df_hm_pt_dip:
@@ -13,7 +13,7 @@ df_hm_calf_raise:
 
 Pills: `INPUT[toggle:df_pills]`
 
-- Biceps 10kg: `INPUT[number:df_biceps_10kg]`
+- Biceps 10 kg: `INPUT[number:df_biceps_10kg]`
 
 
 Power Tower

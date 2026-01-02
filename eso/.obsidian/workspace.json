@@ -15,7 +15,7 @@
               "state": {
                 "file": "80 Back Office/Templates/Daily Fit Template.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Daily Fit Template"

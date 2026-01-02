@@ -5,7 +5,7 @@ df_hm_pt_captain: 50
 df_hm_pt_dip: 3
 df_hm_squat: 30
 df_hm_angel: 20
-df_hm_calf_raise: 30
+df_hm_calf_raise: 60
 ---
 
 [[10 Journal/Daily/26_01/02/26-01-02 Daily Notes|Daily Notes]]

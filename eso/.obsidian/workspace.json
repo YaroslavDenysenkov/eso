@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
+                "file": "80 Back Office/Templates/Daily Fit Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "26-01-02 Daily Me"
+              "title": "Daily Fit Template"
             }
           }
         ]
@@ -219,15 +219,15 @@
   },
   "active": "2c132339d5aa46ce",
   "lastOpenFiles": [
-    "10 Journal/Daily/26_01/02/26-01-02 Daily Fit.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
+    "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
+    "10 Journal/Daily/26_01/02/26-01-02 Daily Fit.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Notes.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Fit.md",
     "00 Inbox/00 Inbox.md",
     "80 Back Office/Templates/Daily Learn Template.md",
     "00 Inbox/Obsidian Tasks.md",
     "80 Back Office/Templates/Daily Fit Template.md",
-    "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Me.md",
     "80 Back Office/Templates/Daily Me Template.md",
     "00 Inbox/German A1 Preparation.md",

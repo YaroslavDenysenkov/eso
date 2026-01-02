@@ -1,5 +1,5 @@
 ---
-dm_pills: true
+df_pills: true
 df_hm_pt_pushup: 30
 df_hm_pt_captain: 50
 df_hm_pt_dip: 3
@@ -14,7 +14,7 @@ df_hm_calf_raise: 30
 - [ ] add more daily fix exercises
 
 
-Pills: `INPUT[toggle:dm_pills]`
+Pills: `INPUT[toggle:df_pills]`
 
 Power Tower
 

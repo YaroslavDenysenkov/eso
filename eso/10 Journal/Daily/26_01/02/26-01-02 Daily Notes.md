@@ -7,7 +7,7 @@
 - [ ] need to group task dashboards better
 - [ ] need to add eso to Phone
 
-
+- [ ] need to add the list like the shower, water, etc
 
 ## Tasks
 ### Overdue

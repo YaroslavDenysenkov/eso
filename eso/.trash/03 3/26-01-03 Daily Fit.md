@@ -9,6 +9,8 @@ df_hm_angel:
 df_hm_calf_raise:
 ---
 
+[[10 Journal/Daily/26_01/03/26-01-03 Daily Notes|Daily Notes]]
+
 Pills: `INPUT[toggle:df_pills]`
 
 - Biceps 10 kg: `INPUT[number:df_biceps_10kg]`

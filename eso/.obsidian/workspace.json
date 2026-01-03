@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80 Back Office/Templates/Daily Notes Template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Daily Notes Template"
-            }
-          },
-          {
-            "id": "0cfd2c70e9029126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "26-01-03 Daily Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,29 +217,31 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0cfd2c70e9029126",
+  "active": "2c132339d5aa46ce",
   "lastOpenFiles": [
+    "10 Journal/Daily/26_01/03/26-01-03 Daily Tasks.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Me.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Learn.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Fit.md",
     "80 Back Office/Templates/Daily Notes Template.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
     "10 Journal/Daily/26_01/03",
+    "80 Back Office/Templates/Daily Tasks Template.md",
+    "80 Back Office/Templates/Daily Me Template.md",
+    "80 Back Office/Templates/Daily Learn Template.md",
+    "80 Back Office/Templates/Daily Fit Template.md",
+    "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
     "00 Inbox/2026-01-03 Daily Fit Copy.md",
     "90 Attachments/00 Inbox/2026-01-03 Daily Fit Copy",
     "90 Attachments/00 Inbox",
     "90 Attachments/00 Inbox/2026-01-03 Daily Fit Copy/IMG-20260103101447892.png",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Notes.md",
-    "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Fit.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Fit.md",
-    "80 Back Office/Templates/Daily Fit Template.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
     "00 Inbox/00 Inbox.md",
-    "80 Back Office/Templates/Daily Learn Template.md",
     "00 Inbox/Obsidian Tasks.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Me.md",
-    "80 Back Office/Templates/Daily Me Template.md",
     "00 Inbox/German A1 Preparation.md",
     "80 Back Office/Obsidian Community Plugins.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Learn.md",
@@ -265,8 +252,6 @@
     "10 Journal/Daily/26_01",
     "10 Journal/Daily/25_12/31/25-12-31 Daily Fit.md",
     "10 Journal/Daily/25_12/31/25-12-31 Daily Learn.md",
-    "10 Journal/Daily/25_12/31/25-12-31 Daily Me.md",
-    "10 Journal/Daily/25_12/31/25-12-31 Daily Notes.md",
     "10 Journal/Daily/25_12/31",
     "80 Back Office/Attachments",
     "99 Archives"

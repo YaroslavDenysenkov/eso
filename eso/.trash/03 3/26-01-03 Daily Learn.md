@@ -6,6 +6,8 @@ dl_deu_mem_points_t:
 dl_deu_mem_words_t:
 ---
 
+[[10 Journal/Daily/26_01/03/26-01-03 Daily Notes|Daily Notes]]
+
 ## Deutsch
 
 * **Study Deutsch**: `INPUT[toggle:dl_deu_study]`

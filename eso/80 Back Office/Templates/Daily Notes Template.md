@@ -1,8 +1,3 @@
-
-- [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Fit|Daily Fit]]
-- [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Learn|Daily Learn]]
-- [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Me|Daily Me]]
-
 <%*
 const date = tp.date.now("YY-MM-DD");
 const folder = tp.file.folder(true);
@@ -19,6 +14,15 @@ await createNote("Daily Fit Template",   `${date} Daily Fit`);
 await createNote("Daily Learn Template", `${date} Daily Learn`);
 await createNote("Daily Me Template",    `${date} Daily Me`);
 %>
+
+- [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Fit|Daily Fit]]
+- [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Learn|Daily Learn]]
+- [[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Me|Daily Me]]
+
+![[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Fit|Daily Fit]]
+
+![[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Learn|Daily Learn]]
+![[<% tp.file.path(true).split("/").slice(0,-1).join("/") %>/<% tp.date.now("YY-MM-DD") %> Daily Me|Daily Me]]
 
 ## Tasks
 ### Overdue

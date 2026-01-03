@@ -1,11 +1,11 @@
 ---
-df_pills:
+df_pills: true
 df_biceps_10kg:
-df_hm_pt_pushup:
-df_hm_pt_captain:
-df_hm_pt_dip:
-df_hm_squat:
-df_hm_angel:
+df_hm_pt_pushup: 30
+df_hm_pt_captain: 50
+df_hm_pt_dip: 4
+df_hm_squat: 30
+df_hm_angel: 20
 df_hm_calf_raise:
 ---
 

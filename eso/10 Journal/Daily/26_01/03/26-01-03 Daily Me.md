@@ -2,7 +2,7 @@
 dm_waking_up:
 ---
 
-- [ ] Daily Me  📅 <% tp.file.title.split(" ")[0] %>
+- [ ] Daily Me  📅 26-01-03
 
 Waking Up: `INPUT[toggle:dm_waking_up]`
 

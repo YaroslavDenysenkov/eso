@@ -1,5 +1,5 @@
 ---
-date: <% tp.file.title.split(" ")[0] %>
+date: 26-01-03
 df_pills:
 df_biceps_10kg:
 df_hm_pt_pushup:
@@ -10,7 +10,7 @@ df_hm_angel:
 df_hm_calf_raise:
 ---
 
-- [ ] Daily Fit  📅 <% tp.file.title.split(" ")[0] %>
+- [ ] Daily Fit  📅 26-01-03
 
 Pills: `INPUT[toggle:df_pills]`
 

@@ -1,8 +1,8 @@
 ---
-date: <% tp.file.title.split(" ")[0] %>
+date: 26-01-03
 ---
 
-- [ ] Daily Tasks  📅 <% tp.file.title.split(" ")[0] %>
+- [ ] Daily Tasks  📅 26-01-03
 
 #### 🔴 Overdue
 ```tasks

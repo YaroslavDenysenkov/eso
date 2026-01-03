@@ -1,5 +1,5 @@
 ---
-date: <% tp.file.title.split(" ")[0] %>
+date: 26-01-03
 dl_deu_study:
 dl_deu_speak:
 dl_deu_vhs_sections_t:
@@ -7,7 +7,7 @@ dl_deu_mem_points_t:
 dl_deu_mem_words_t:
 ---
 
-- [ ] Daily Learn  📅 <% tp.file.title.split(" ")[0] %>
+- [ ] Daily Learn  📅 26-01-03
 
 ## Deutsch
 

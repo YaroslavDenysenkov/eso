@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8a5583638fba79b5",
+        "id": "9cd43c2d1b49b871",
         "type": "tabs",
         "children": [
           {
-            "id": "2c132339d5aa46ce",
+            "id": "471a9526e4b99833",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "26-01-03 Daily Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -217,10 +213,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2c132339d5aa46ce",
+  "active": "471a9526e4b99833",
   "lastOpenFiles": [
-    "00 Inbox/2026-01-03 Daily Fit Copy.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
+    "00 Inbox/2026-01-03 Daily Fit Copy.md",
     "90 Attachments/00 Inbox/2026-01-03 Daily Fit Copy/IMG-20260103101447892.png",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Tasks.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Me.md",

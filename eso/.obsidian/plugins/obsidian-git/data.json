@@ -29,7 +29,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": true,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": "/storage/emulated/0/eso/.git",
   "showFileMenu": true,
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,

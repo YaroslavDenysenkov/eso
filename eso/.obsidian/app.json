@@ -5,6 +5,6 @@
   "attachmentFolderPath": "90 Attachments",
   "newLinkFormat": "shortest",
   "promptDelete": false,
-  "trashOption": "local",
+  "trashOption": "none",
   "showLineNumber": false
 }

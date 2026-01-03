@@ -1,4 +1,5 @@
 ---
+date: <% tp.file.title.split(" ")[0] %>
 dl_deu_study:
 dl_deu_speak:
 dl_deu_vhs_sections_t:

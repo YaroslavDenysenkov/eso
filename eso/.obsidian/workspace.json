@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
+                "file": "80 Back Office/Templates/Daily Notes Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "26-01-03 Daily Notes"
+              "title": "Daily Notes Template"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "4a1801d6b873fbc4",
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,17 +219,17 @@
   },
   "active": "2c132339d5aa46ce",
   "lastOpenFiles": [
+    "80 Back Office/Templates/Daily Tasks Template.md",
+    "80 Back Office/Templates/Daily Notes Template.md",
+    "80 Back Office/Templates/Daily Learn Template.md",
+    "80 Back Office/Templates/Daily Fit Template.md",
+    "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Tasks.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Me.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Learn.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Fit.md",
-    "80 Back Office/Templates/Daily Notes Template.md",
-    "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
     "10 Journal/Daily/26_01/03",
-    "80 Back Office/Templates/Daily Tasks Template.md",
     "80 Back Office/Templates/Daily Me Template.md",
-    "80 Back Office/Templates/Daily Learn Template.md",
-    "80 Back Office/Templates/Daily Fit Template.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
     "00 Inbox/2026-01-03 Daily Fit Copy.md",
     "90 Attachments/00 Inbox/2026-01-03 Daily Fit Copy",

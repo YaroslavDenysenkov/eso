@@ -1,4 +1,5 @@
 ---
+date: <% tp.file.title.split(" ")[0] %>
 df_pills:
 df_biceps_10kg:
 df_hm_pt_pushup:

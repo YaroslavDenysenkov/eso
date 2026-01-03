@@ -1,3 +1,8 @@
+---
+date: <% tp.file.title.split(" ")[0] %>
+---
+
+
 <%*
 const date = tp.date.now("YY-MM-DD");
 const folder = tp.file.folder(true);

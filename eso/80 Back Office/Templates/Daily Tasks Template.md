@@ -1,3 +1,6 @@
+---
+date: <% tp.file.title.split(" ")[0] %>
+---
 
 #### 🔴 Overdue
 ```tasks

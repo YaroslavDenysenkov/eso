@@ -4,7 +4,7 @@ df_biceps_10kg:
 df_hm_pt_pushup: 30
 df_hm_pt_captain: 50
 df_hm_pt_dip: 4
-df_hm_squat: 15
+df_hm_squat: 30
 df_hm_angel: 20
 df_hm_calf_raise:
 ---

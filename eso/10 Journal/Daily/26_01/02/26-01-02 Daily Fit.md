@@ -1,5 +1,6 @@
 ---
 df_pills: true
+df_biceps_10kg: 5
 df_hm_pt_pushup: 30
 df_hm_pt_captain: 50
 df_hm_pt_dip: 3
@@ -13,6 +14,7 @@ df_hm_calf_raise: 60
 - [ ] need to highlight the plain water intake
 - [ ] add more daily fix exercises
 
+Biceps 10 kg: `INPUT[number:df_biceps_10kg]`
 
 Pills: `INPUT[toggle:df_pills]`
 

@@ -13,6 +13,8 @@ df_hm_calf_raise: 60
 
 Pills: `INPUT[toggle:df_pills]`
 
+
+
 Power Tower
 
 - Push Ups: `INPUT[number:df_hm_pt_pushup]`

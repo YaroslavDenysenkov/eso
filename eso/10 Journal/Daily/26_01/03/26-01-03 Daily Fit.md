@@ -1,8 +1,8 @@
 ---
 df_pills:
-df_biceps_10kg: 5
-df_hm_pt_pushup: 15
-df_hm_pt_captain:
+df_biceps_10kg:
+df_hm_pt_pushup: 30
+df_hm_pt_captain: 50
 df_hm_pt_dip:
 df_hm_squat:
 df_hm_angel:

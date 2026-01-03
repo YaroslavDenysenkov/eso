@@ -1,6 +1,6 @@
 ---
 df_pills:
-df_biceps_10kg: 5
+df_biceps_10kg:
 df_hm_pt_pushup:
 df_hm_pt_captain:
 df_hm_pt_dip:

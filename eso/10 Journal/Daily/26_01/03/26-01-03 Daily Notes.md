@@ -3,7 +3,8 @@
 - [[10 Journal/Daily/26_01/03/26-01-03 Daily Learn|Daily Learn]]
 - [[10 Journal/Daily/26_01/03/26-01-03 Daily Me|Daily Me]]
 
-
+- [ ] embed the other notes into the Daily Notes
+- [ ] add a daily note template for each sub-note-domain maintenance
 
 ## Tasks
 ### Overdue

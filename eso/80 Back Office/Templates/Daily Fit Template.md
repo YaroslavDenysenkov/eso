@@ -22,7 +22,7 @@ Pills: `INPUT[toggle:df_pills]`
 **Body Weight** 
 - Squats: `INPUT[number:df_hm_squat]`
 - Angels: `INPUT[number:df_hm_angel]`
-- Calf Raises: `INPUT[number:df_hm_calf_raise]`
+- Calf Raises: `INPUT[number:df_hm_calf_raise]` (*water re-fill*)
 
 **Dumbbells**
 - Biceps 10 kg: `INPUT[number:df_biceps_10kg]`

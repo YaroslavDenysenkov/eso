@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e18554b492ac511d","type":"file","file":"00 Inbox/Memrise.md","x":-260,"y":-160,"width":400,"height":270},
+		{"id":"9e7d30c328e844b3","x":-280,"y":-620,"width":400,"height":270,"type":"file","file":"00 Inbox/MrWissen2go.md"}
+	],
+	"edges":[]
+}

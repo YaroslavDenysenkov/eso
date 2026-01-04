@@ -5,7 +5,7 @@
 
 
 - [ ] need to group task dashboards better
-- [ ] need to add eso to Phone
+- [x] need to add eso to Phone ✅ 2026-01-03
 
 - [ ] add Obsidian hot keys to plugins list
 

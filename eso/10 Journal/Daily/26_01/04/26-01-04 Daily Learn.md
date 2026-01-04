@@ -1,5 +1,5 @@
 ---
-date: 26-01-03
+date: 26-01-04
 dl_deu_study:
 dl_deu_speak:
 dl_deu_vhs_sections_t:
@@ -7,7 +7,7 @@ dl_deu_mem_points_t:
 dl_deu_mem_words_t:
 ---
 
-- [x] Daily Learn  📅 26-01-03 ✅ 2026-01-04
+- [ ] Daily Learn  📅 26-01-04
 
 ## Deutsch
 

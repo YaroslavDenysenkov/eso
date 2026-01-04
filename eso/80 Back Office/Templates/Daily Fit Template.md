@@ -14,16 +14,15 @@ df_hm_calf_raise:
 
 Pills: `INPUT[toggle:df_pills]`
 
-- Biceps 10 kg: `INPUT[number:df_biceps_10kg]`
-
-
-Power Tower
-
+**Power Tower**
 - Push Ups: `INPUT[number:df_hm_pt_pushup]`
 - Captain: `INPUT[number:df_hm_pt_captain]`
 - Dips: `INPUT[number:df_hm_pt_dip]`
+
+**Body Weight** 
 - Squats: `INPUT[number:df_hm_squat]`
 - Angels: `INPUT[number:df_hm_angel]`
 - Calf Raises: `INPUT[number:df_hm_calf_raise]`
 
-
+**Dumbbells**
+- Biceps 10 kg: `INPUT[number:df_biceps_10kg]`

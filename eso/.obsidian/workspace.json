@@ -11,10 +11,14 @@
             "id": "471a9526e4b99833",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10 Journal/Daily/26_01/03/26-01-03 Daily Learn.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "26-01-03 Daily Learn"
             }
           }
         ]
@@ -209,47 +213,46 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "471a9526e4b99833",
   "lastOpenFiles": [
-    "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
-    "00 Inbox/2026-01-03 Daily Fit Copy.md",
-    "90 Attachments/00 Inbox/2026-01-03 Daily Fit Copy/IMG-20260103101447892.png",
+    "10 Journal/Daily/26_01/04/26-01-04 Daily Notes.md",
+    "10 Journal/Daily/26_01/04/26-01-04 Daily Tasks.md",
+    "10 Journal/Daily/26_01/04/26-01-04 Daily Me.md",
+    "10 Journal/Daily/26_01/04/26-01-04 Daily Learn.md",
+    "10 Journal/Daily/26_01/04/26-01-04 Daily Fit.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Tasks.md",
-    "10 Journal/Daily/26_01/03/26-01-03 Daily Me.md",
+    "10 Journal/Daily/26_01/04",
+    "10 Journal/Daily/26_01/03/26-01-03 Daily Notes.md",
+    "10 Journal/Daily/26_01/02/26-01-02 Daily Fit.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Learn.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Fit.md",
+    "80 Back Office/Templates/Daily Fit Template.md",
     "80 Back Office/Templates/Daily Notes Template.md",
-    "10 Journal/Daily/26_01/03",
-    "80 Back Office/Templates/Daily Tasks Template.md",
     "80 Back Office/Templates/Daily Me Template.md",
     "80 Back Office/Templates/Daily Learn Template.md",
-    "80 Back Office/Templates/Daily Fit Template.md",
+    "00 Inbox/German A1 Preparation.md",
+    "10 Journal/Daily/26_01/03/26-01-03 Daily Me.md",
+    "00 Inbox/Test GitSync.md",
+    "00 Inbox/2026-01-03 Daily Fit Copy.md",
+    "90 Attachments/00 Inbox/2026-01-03 Daily Fit Copy/IMG-20260103101447892.png",
+    "10 Journal/Daily/26_01/03",
+    "80 Back Office/Templates/Daily Tasks Template.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
     "90 Attachments/00 Inbox/2026-01-03 Daily Fit Copy",
     "90 Attachments/00 Inbox",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Notes.md",
-    "10 Journal/Daily/26_01/02/26-01-02 Daily Fit.md",
     "10 Journal/Daily/26_01/01/26-01-01 Daily Fit.md",
     "10 Journal/Daily/26_01/02/26-01-02 Daily Notes.md",
     "00 Inbox/00 Inbox.md",
     "00 Inbox/Obsidian Tasks.md",
-    "10 Journal/Daily/26_01/01/26-01-01 Daily Me.md",
-    "00 Inbox/German A1 Preparation.md",
-    "80 Back Office/Obsidian Community Plugins.md",
-    "10 Journal/Daily/26_01/01/26-01-01 Daily Learn.md",
-    "10 Journal/Daily/26_01/02/26-01-02 Daily Learn.md",
     "10 Journal/Daily/26_01/02",
     "90 Attachments",
     "10 Journal/Daily/26_01/01",
     "10 Journal/Daily/26_01",
-    "10 Journal/Daily/25_12/31/25-12-31 Daily Fit.md",
-    "10 Journal/Daily/25_12/31/25-12-31 Daily Learn.md",
     "10 Journal/Daily/25_12/31",
-    "80 Back Office/Attachments",
-    "99 Archives"
+    "80 Back Office/Attachments"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 date: 26-01-04
-df_pills:
+df_pills: true
 df_biceps_10kg:
 df_hm_pt_pushup: 30
 df_hm_pt_captain: 50

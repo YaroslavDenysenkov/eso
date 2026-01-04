@@ -1,7 +1,11 @@
 {
 	"nodes":[
 		{"id":"e18554b492ac511d","type":"file","file":"00 Inbox/Memrise.md","x":-260,"y":-160,"width":400,"height":270},
-		{"id":"9e7d30c328e844b3","x":-280,"y":-620,"width":400,"height":270,"type":"file","file":"00 Inbox/MrWissen2go.md"}
+		{"id":"9e7d30c328e844b3","type":"file","file":"40 Knowledge/YouTube/MrWissen2go.md","x":-280,"y":-620,"width":400,"height":270},
+		{"id":"2e7e5958dbb74586","type":"file","file":"40 Knowledge/YouTube/Deutsch mit Rieke.md","x":-280,"y":-940,"width":400,"height":270},
+		{"id":"e56db65d09aa2a35","x":460,"y":-1000,"width":400,"height":270,"type":"file","file":"40 Knowledge/YouTube/Lach- und Sprachgeschichten.md"},
+		{"id":"29db23b5015d3418","type":"file","file":"40 Knowledge/YouTube/Deutsch mit Lara.md","x":540,"y":-640,"width":400,"height":270},
+		{"id":"f2684bc6bb0472ee","type":"file","file":"00 Inbox/dict.cc.md","x":200,"y":-295,"width":400,"height":270}
 	],
 	"edges":[]
 }

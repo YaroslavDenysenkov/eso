@@ -62,18 +62,83 @@
             "id": "8fd1d6d7f72f2080",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "20 Projects/Learn German Canvas.canvas",
+                "viewState": {
+                  "x": -70,
+                  "y": -255,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Learn German Canvas"
+            }
+          },
+          {
+            "id": "4c7ae05415c015f1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "20 Projects/Learn German Canvas.canvas",
+                "viewState": {
+                  "x": -70,
+                  "y": -415,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Learn German Canvas"
+            }
+          },
+          {
+            "id": "d44ad7e001fa7e42",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Deutsch mit Rieke.md",
+                "file": "40 Knowledge/YouTube/Deutsch mit Lara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deutsch mit Rieke"
+              "title": "Deutsch mit Lara"
+            }
+          },
+          {
+            "id": "f47ee5e6e5cbf584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Knowledge/YouTube/Deutsch mit Lara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch mit Lara"
+            }
+          },
+          {
+            "id": "a4465badcc5e6af5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "20 Projects/Learn German Canvas.canvas",
+                "viewState": {
+                  "x": 330,
+                  "y": -445,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Learn German Canvas"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -268,11 +333,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8fd1d6d7f72f2080",
+  "active": "a4465badcc5e6af5",
   "lastOpenFiles": [
+    "40 Knowledge/YouTube/Deutsch mit Lara.md",
+    "40 Knowledge/YouTube/Deutsch mit Rieke.md",
+    "40 Knowledge/YouTube/MrWissen2go.md",
     "20 Projects/Learn German Canvas.canvas",
-    "00 Inbox/Deutsch mit Rieke.md",
-    "00 Inbox/MrWissen2go.md",
+    "40 Knowledge/YouTube",
+    "40 Knowledge/YouTube/Lach- und Sprachgeschichten.md",
+    "00 Inbox/dict.cc.md",
     "90 Attachments/20 Projects/Learn German Canvas/IMG-20260104114159352.png",
     "90 Attachments/20 Projects/Learn German Canvas",
     "90 Attachments/20 Projects",
@@ -299,16 +368,12 @@
     "80 Back Office/Templates/Daily Me Template.md",
     "80 Back Office/Templates/Daily Learn Template.md",
     "10 Journal/Daily/26_01/03/26-01-03 Daily Me.md",
-    "00 Inbox/2026-01-03 Daily Fit Copy.md",
     "90 Attachments/00 Inbox/2026-01-03 Daily Fit Copy/IMG-20260103101447892.png",
     "10 Journal/Daily/26_01/03",
-    "80 Back Office/Templates/Daily Tasks Template.md",
-    "10 Journal/Daily/26_01/02/26-01-02 Daily Me.md",
     "90 Attachments/00 Inbox/2026-01-03 Daily Fit Copy",
     "90 Attachments/00 Inbox",
     "10 Journal/Daily/26_01/02",
     "90 Attachments",
-    "10 Journal/Daily/26_01/01",
-    "10 Journal/Daily/26_01"
+    "10 Journal/Daily/26_01/01"
   ]
 }
